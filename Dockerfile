@@ -1,6 +1,6 @@
 FROM node:latest
 
-MAINTAINER woptober
+MAINTAINER tawwab
 
 # Create app directory
 WORKDIR /usr/src/app
