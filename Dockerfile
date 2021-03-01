@@ -2,7 +2,7 @@ FROM node:latest
 
 MAINTAINER tawwab
 
-# Create app directory
+# Create app directory for this project in order for it to work and we can use it
 WORKDIR /usr/src/app
 
 # Install app dependencies
